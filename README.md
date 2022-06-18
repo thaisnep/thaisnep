@@ -22,8 +22,8 @@ thaisnep
 
 #### Recomendo os projetos abaixo:
 
-- Fernanda Kipper Readme Templates - https://github.com/Fernanda-Kipper/Readme-Templates/commits?author=Fernanda-Kipper
-- Igor N Faustino Emeral VSCode Dark Theme - https://github.com/igornfaustino/emerald-vscode-theme
+- [Fernanda Kipper Readme Templates](https://github.com/Fernanda-Kipper/Readme-Templates/commits?author=Fernanda-Kipper
+- [Igor N Faustino Emeral VSCode Dark Theme](https://github.com/igornfaustino/emerald-vscode-theme)
 
 
 💻 Dica de leitura e prática:
