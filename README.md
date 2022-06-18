@@ -36,9 +36,9 @@ thaisnep
 
 [![Canal MinasTestingConference](https://badgen.net/badge/Youtube/MTC?icon=youtube)](https://www.youtube.com/c/MinasTestingConference)
 
-- MTC 2021 - Será que as escolhas matam a qualidade?
 
  [MTC 2021 - Será que as escolhas matam a qualidade?](https://youtu.be/U8LLTuk4llU)
+ 
  
 Te vejo por aí!
 
