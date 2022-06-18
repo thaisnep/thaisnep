@@ -13,6 +13,7 @@ thaisnep
 
 😄 Obstinada por Qualidade, principalmente de Software.
 
+
 #### Transformo sistemas na melhor experiência:
 
 - 🏆 Mentoria de QA Voe Mais Alto - VMA
