@@ -8,7 +8,7 @@ thaisnep
 - 🚀 I’m currently working on QA Leardership
 - 👯 I’m looking to collaborate on you
 - 💬 Ask me about QA
-- 📫 Contact me here: https://www.instagram.com/aqathaisnepomuceno/
+- 📫 [Contact me here:](https://www.instagram.com/aqathaisnepomuceno/)
 
 
 😄 Obstinada por Qualidade, principalmente de Software.
