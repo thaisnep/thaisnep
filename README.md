@@ -35,7 +35,7 @@ thaisnep
 #### Confira minha passagem pelo Minas Testing Conference no YouTube
 
 https://www.youtube.com/c/MinasTestingConference
-[![Canal MinasTestingConference](https://badgen.net/badge/Youtube/thaisnep?icon=youtube)](https://youtu.be/U8LLTuk4llU)
+[![Canal MinasTestingConference](https://badgen.net/badge/Youtube/MTC?icon=youtube)]
 
 - MTC 2021 - Será que as escolhas matam a qualidade?
 
