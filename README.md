@@ -28,7 +28,7 @@ thaisnep
 
 💻 Dica de leitura e prática:
 
- [Rodrigo Santos - How to setup Cypress on Github Actions] (https://dev.to/rodrigosta/how-to-setup-cypress-on-github-actions-45b6)
+ [Rodrigo Santos - How to setup Cypress on Github Actions](https://dev.to/rodrigosta/how-to-setup-cypress-on-github-actions-45b6)
 
 
 
