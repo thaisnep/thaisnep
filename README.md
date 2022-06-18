@@ -1,8 +1,6 @@
 thaisnep
 
-Linkedin Badge
-
-### Helow human being 👋
+## Helow human being 👋
 
 
 - 🚀 I’m currently working on QA Leardership
@@ -13,17 +11,18 @@ Linkedin Badge
 
 😄 Obstinada por Qualidade, principalmente de Software.
 
-# Transformo sistemas na melhor experiência:
+#### Transformo sistemas na melhor experiência:
 
 - 🏆 Mentoria de QA Voe Mais Alto - VMA
 - ⚡️ Programa Universidade da Qualidade - PUQ 
 - 🔭 Gestão e Desenvolvimento de Produto com Qualidade - GDPQ
 
 
-# Recomendo os projetos abaixo:
+#### Recomendo os projetos abaixo:
 
 - Fernanda Kipper Readme Templates - https://github.com/Fernanda-Kipper/Readme-Templates/commits?author=Fernanda-Kipper
 - Igor N Faustino Emeral VSCode Dark Theme - https://github.com/igornfaustino/emerald-vscode-theme
+
 
 💻 Dica de leitura e prática:
 
@@ -32,7 +31,8 @@ Linkedin Badge
 https://dev.to/rodrigosta/how-to-setup-cypress-on-github-actions-45b6
 
 
-# Confira minha passagem pelo Minas Testing Conference no YouTube
+
+#### Confira minha passagem pelo Minas Testing Conference no YouTube
 
 - MTC 2021 - Será que as escolhas matam a qualidade?
 https://youtu.be/U8LLTuk4llU
