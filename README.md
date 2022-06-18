@@ -2,21 +2,6 @@ thaisnep
 
 [![Linkedin Badge](https://img.shields.io/badge/-thaisnepomucenosilva-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaisnepomucenosilva/)](https://www.linkedin.com/in/thaisnepomucenosilva/) 
 
-
-[![Canal Agilizei](https://badgen.net/badge/Youtube/samlucax?icon=youtube)](https://youtube.com/c/Agilizei)
-
-### Confira alguns vídeos, como
-
-1. [Agilizei Spark: Curso gratuito de testes automatizados com Cypress](https://youtube.com/playlist?list=PLnUo-Rbc3jjztMO4K8b-px4NE-630VNKY)
-2. [Extensões do VSCode que eu uso com Cypress](https://www.youtube.com/watch?v=JGVB97ns0NQ)
-3. [Seletores, do básico ao avançado com Cypress](https://www.youtube.com/watch?v=xugVkhXpEtc)
-4. [Cypress, o essencial em um mindmap](https://www.youtube.com/watch?v=utdYrFjs4Do)
-
-
-
-
-
-
 ## Helow human being 👋
 
 
