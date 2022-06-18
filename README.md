@@ -1,16 +1,42 @@
-### Hi there 👋
+thaisnep
 
-<!--
-**thaisnep/thaisnep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linkedin Badge
+
+### Helow human being 👋
+
+
+- 🚀 I’m currently working on QA Leardership
+- 👯 I’m looking to collaborate on you
+- 💬 Ask me about QA
+- 📫 Contact me here: https://www.instagram.com/aqathaisnepomuceno/
+
+
+😄 Obstinada por Qualidade, principalmente de Software.
+
+Transformo sistemas na melhor experiência:
+
+🏆 Mentoria de QA Voe Mais Alto - VMA
+⚡️ Programa Universidade da Qualidade - PUQ 
+🔭 Gestão e Desenvolvimento de Produto com Qualidade - GDPQ
+
+
+Recomendo os projetos abaixo:
+
+Fernanda Kipper Readme Templates - https://github.com/Fernanda-Kipper/Readme-Templates/commits?author=Fernanda-Kipper
+Igor N Faustino Emeral VSCode Dark Theme - https://github.com/igornfaustino/emerald-vscode-theme
+
+Dica de leitura e prática:
+
+Rodrigo Santos - How to setup Cypress on Github Actions
+
+https://dev.to/rodrigosta/how-to-setup-cypress-on-github-actions-45b6
+
+
+Confira minha passagem pelo Minas Testing Conference
+
+MTC 2021 - Será que as escolhas matam a qualidade?
+https://youtu.be/U8LLTuk4llU
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
