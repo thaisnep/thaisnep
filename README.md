@@ -9,7 +9,7 @@ thaisnep
 
 - 🚀 Trabalho com Liderança em Projetos de Quality Assurance
 - 👯 Pronta para colaborar
-- 💬 Pergunte-me sobre QA
+- 💬 Vamos falar sobre QA!
 - 📫 [Contacto - Instagram](https://www.instagram.com/aqathaisnepomuceno/)
 
 
@@ -31,6 +31,14 @@ thaisnep
 
  [Rodrigo Santos - How to setup Cypress on Github Actions](https://dev.to/rodrigosta/how-to-setup-cypress-on-github-actions-45b6)
 
+
+### Inspiração
+[“The Art of Asking “Stupid” Questions” by Dorothy Graham](https://youtu.be/JurPvW5tUAM)
+Over nearly 50 years in the QA industry...
+
+
+### Sugestão de Livro
+[Agile Testing: A Practical Guide for Testers and Agile Teams](https://amzn.to/3QsUSTv)
 
 
 #### Confira minha passagem pelo Minas Testing Conference no YouTube
