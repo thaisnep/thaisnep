@@ -2,16 +2,16 @@ thaisnep
 
 [![Linkedin Badge](https://img.shields.io/badge/-thaisnepomucenosilva-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaisnepomucenosilva/)](https://www.linkedin.com/in/thaisnepomucenosilva/) 
 
-## Helow human being 👋
+## Olá seres humanos 👋
+
+😄 Sou Thais Nepomuceno, obstinada por Qualidade, principalmente de Software.
 
 
-- 🚀 I’m currently working on QA Leardership
-- 👯 I’m looking to collaborate on you
-- 💬 Ask me about QA
-- 📫 [Contact me - Instagram](https://www.instagram.com/aqathaisnepomuceno/)
+- 🚀 Trabalho com Liderança em Projetos de Quality Assurance
+- 👯 Pronta para colaborar
+- 💬 Pergunte-me sobre QA
+- 📫 [Contacto - Instagram](https://www.instagram.com/aqathaisnepomuceno/)
 
-
-😄 Obstinada por Qualidade, principalmente de Software.
 
 
 #### Transformo sistemas na melhor experiência:
@@ -41,5 +41,5 @@ thaisnep
  [MTC 2021 - Será que as escolhas matam a qualidade?](https://youtu.be/U8LLTuk4llU)
  
  
-Te vejo por aí!
+Na vida você acerta... ou aprende. Te vejo por aí! 😄
 
