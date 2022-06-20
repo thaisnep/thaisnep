@@ -4,7 +4,7 @@ thaisnep
 
 ## Olá seres humanos 👋
 
-😄 Sou Thais Nepomuceno, obstinada por Qualidade, principalmente de Software.
+😄
 
 
 - 🚀 Trabalho com Liderança em Projetos de Quality Assurance
@@ -49,5 +49,5 @@ Over nearly 50 years in the QA industry...
 [MTC 2021 - Será que as escolhas matam a qualidade?](https://youtu.be/U8LLTuk4llU)
  
  
-Na vida você acerta... ou aprende. Teste por aí! 😄
+Na vida ou você acerta... ou aprende. Teste por aí! 😄
 
