@@ -10,7 +10,7 @@ thaisnep
 - 🚀 Trabalho com Liderança em Projetos de Quality Assurance
 - 👯 Pronta para colaborar
 - 💬 Vamos falar sobre QA!
-- 📫 [Contacto - Instagram](https://www.instagram.com/aqathaisnepomuceno/)
+- 📫 [Contacto - Instagram](https://www.instagram.com/thaisnepomucenosilva/)
 
 
 
@@ -29,7 +29,7 @@ thaisnep
 
 💻 Dica de leitura e prática:
 
- [Rodrigo Santos - How to setup Cypress on Github Actions](https://dev.to/rodrigosta/how-to-setup-cypress-on-github-actions-45b6)
+ [10 Repositórios no GitHub para QAs (por Natalia Demianenko)](https://dev.to/rodrigosta/how-to-setup-cypress-on-github-actions-45b6](https://medium.com/@n-demia/10-github-repositories-for-software-testers-121ff3b84fe1)
 
 
 ### Inspiração
